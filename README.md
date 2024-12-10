@@ -1,4 +1,5 @@
-## Hi there 👋
+#Welcome to my Github profile # 
+"i'm a passionate backend developer with a strong focus on Python and Django. I create robust APIs, optimize databases, and design scalable solutions for web applications.Check out my repositories for proects, i'm always ready to collaborate and learn!"
 
 <!--
 **blackpearl223T/blackpearl223T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
